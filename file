@@ -1,0 +1,67 @@
+### Keybase proof
+
+I hereby claim:
+
+  * I am cworthman on github.
+  * I am charleswor718 (https://keybase.io/charleswor718) on keybase.
+  * I have a public key ASCb7tb-0acYx3W1JpQ0NS4Y1Gs9Dz87YA_PK1swshHYFwo
+
+To claim this, I am signing this object:
+
+```json
+{
+  "body": {
+    "key": {
+      "eldest_kid": "01209beed6fed1a718c775b5269434352e18d46b3d0f3f3b600fcf2b5b30b211d8170a",
+      "host": "keybase.io",
+      "kid": "01209beed6fed1a718c775b5269434352e18d46b3d0f3f3b600fcf2b5b30b211d8170a",
+      "uid": "6a7c87c695254ec7c2a12e2deb326719",
+      "username": "charleswor718"
+    },
+    "merkle_root": {
+      "ctime": 1569265746,
+      "hash": "9fb058c98cfe0f8509565117c717f015a7c67dd9a9c76cd0aa8ed4a1cfadc3152c3092301652dd1288aa977f3e6153db0b036866dc4a8d907022a9fb0bfd1199",
+      "hash_meta": "530ec78232b41bc82f110f58fd6879b69d06aeec75d92fbd1b481a45245e74dc",
+      "seqno": 7708097
+    },
+    "service": {
+      "entropy": "fD4Q/3kRR1cVIUBoE0JRuqFR",
+      "name": "github",
+      "username": "cworthman"
+    },
+    "type": "web_service_binding",
+    "version": 2
+  },
+  "client": {
+    "name": "keybase.io go client",
+    "version": "4.5.0"
+  },
+  "ctime": 1569265784,
+  "expire_in": 504576000,
+  "prev": "e39ed22c24eccb61783b286504add91dc36bdef5f6b6a8684428152fc190033a",
+  "seqno": 5,
+  "tag": "signature"
+}
+```
+
+with the key [ASCb7tb-0acYx3W1JpQ0NS4Y1Gs9Dz87YA_PK1swshHYFwo](https://keybase.io/charleswor718), yielding the signature:
+
+```
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEgm+7W/tGnGMd1tSaUNDUuGNRrPQ8/O2APzytbMLIR2BcKp3BheWxvYWTESpcCBcQg457SLCTsy2F4OyhlBK3ZHcNr3vX2tqhoRCgVL8GQAzrEIOSIiKsg+DncQYnxU1i9uBMKg5xs+pecm95U/S0bKNiTAgHCo3NpZ8RAIZDqkBifzrcaFaaA7G68vbFDUQdY6saE9TL8U9zi9+rgALHqGfFs9ktjdMKZtGm5pRje1pfPIA/uL9+qbxrXAahzaWdfdHlwZSCkaGFzaIKkdHlwZQildmFsdWXEIGxEMVHyoFj1wViJE6wSSnRapn8QbHfbvZ93aRYo3n3wo3RhZ80CAqd2ZXJzaW9uAQ==
+
+```
+
+And finally, I am proving ownership of the github account by posting this as a gist.
+
+### My publicly-auditable identity:
+
+https://keybase.io/charleswor718
+
+### From the command line:
+
+Consider the [keybase command line program](https://keybase.io/download).
+
+```bash
+# look me up
+keybase id charleswor718
+```
